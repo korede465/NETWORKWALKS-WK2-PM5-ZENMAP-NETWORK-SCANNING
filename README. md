@@ -1,0 +1,73 @@
+# NetworkWalks – Week 2 Project Module 5
+## Network Scanning with Zenmap
+
+### Project Overview
+This project was completed as part of the NetworkWalks Cybersecurity Internship, Week 2, Project Module 5 (W2-PM5).
+
+The objective was to perform network discovery and scanning using Zenmap, the graphical interface for Nmap, to identify active hosts on a local network and visualise the network topology.
+
+### Objectives
+- Identify active devices on the local network.
+- Perform a Ping Scan using Zenmap.
+- Examine discovered host information.
+- Visualise the network structure using Zenmap's Topology feature.
+- Document the scanning process and findings.
+
+### Tools and Environment
+- **Operating System:** Windows
+- **Network Scanning Tool:** Zenmap
+- **Scanning Engine:** Nmap
+- **Network:** Personal local network
+
+### Methodology
+
+The project was completed through the following activities:
+
+1. Checked the computer's network configuration using Windows Command Prompt (`ipconfig /all`).
+2. Identified the local network range.
+3. Opened Zenmap and configured a Ping Scan.
+4. Scanned the local network to discover active hosts.
+5. Examined the scan results and available host information.
+6. Used Zenmap's Topology feature to visualise the discovered network.
+7. Saved screenshots and network topology evidence for documentation.
+
+### Key Findings
+
+- Successfully identified active hosts on the local network.
+- The Ping Scan identified two active hosts.
+- Reviewed the discovered host information.
+- Generated a network topology visualisation using Zenmap.
+
+### Evidence and Screenshots
+
+Screenshots and supporting evidence will be uploaded to this repository, including:
+
+- Windows network configuration (`ipconfig /all`).
+- Zenmap scan configuration.
+- Zenmap Ping Scan results.
+- Discovered host information.
+- Zenmap Topology visualisation.
+- Project report.
+
+### Learning Outcomes
+
+Through this exercise, I gained practical experience in:
+
+- Network discovery and host identification.
+- Using Zenmap for network scanning.
+- Understanding basic network configuration.
+- Interpreting Nmap scan results.
+- Visualising network topology.
+- Documenting cybersecurity practical exercises.
+
+### Conclusion
+
+This project provided practical experience in network scanning and host discovery using Zenmap. It improved my understanding of local network visibility, basic network reconnaissance and the importance of documenting scan results.
+
+### Disclaimer
+
+This project was conducted as part of a cybersecurity learning exercise within a local network environment. Network scanning should only be performed on systems and networks for which permission has been granted.
+
+**Programme:** NetworkWalks Cybersecurity Internship  
+**Project:** Week 2 – Project Module 5  
+**Module:** Network Scanning with Zenmap
